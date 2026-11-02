@@ -1,2 +1,2 @@
 # Neuro
-science
+science.
